@@ -1,0 +1,21 @@
+# Sample Questions for AI Domain Mentor Chatbot
+
+## SQL
+- Explain SQL INNER JOIN
+- Difference between WHERE and HAVING
+- What is normalization?
+
+## Python
+- Explain list vs tuple
+- What is a decorator?
+- Difference between deep copy and shallow copy
+
+## QA
+- What is data validation testing?
+- Difference between functional and regression testing
+- How do you test ETL pipelines?
+
+## AI / ML Basics
+- What is machine learning?
+- Supervised vs unsupervised learning
+- What is overfitting?
